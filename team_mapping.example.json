@@ -1,0 +1,8 @@
+{
+  "team_mapping": {
+    "Platform Engineering": "oncall-platform",
+    "Backend Team": "oncall-backend",
+    "Frontend Team": "oncall-frontend",
+    "DevOps": "oncall-devops"
+  }
+}
